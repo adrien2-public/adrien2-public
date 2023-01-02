@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ... Also speak french
 -->
-- 🔭 I’m currently working on ... Building an OS with C++
+- 🔭 I’m currently working on ... Building an OS 
 - 🌱 I’m currently learning ... C++ , DB Storage Engines
 - 🤔 I’m looking for help with ... Anything related to Backend performance and security
 - ⚡ Fun fact: ... Also speak french
